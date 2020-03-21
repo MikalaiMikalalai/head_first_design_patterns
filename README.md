@@ -1,1 +1,1 @@
-# head_first_design_patterns
+# Head First Design Patterns Workbook
